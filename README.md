@@ -1,23 +1,18 @@
 # Timegpt-tabula9-and-relational-deep-learning-Demo
 
-# TimeGPT, Tabular, and RDL & RelBench
-
 ---
 
 ## YouTube Video Links
 
-Below are the video tutorials explaining the implementation and execution of each Colab notebook:
-
-1. **[TimeGPT Video Tutorial](https://youtu.be/timegpt-video-link)**  
-2. **[Tabular Video Tutorial](https://youtu.be/tabular-video-link)**  
-3. **[RDL and RelBench Video Tutorial](https://youtu.be/rdl-relbench-video-link)**  
+**[TimeGPT Video Tutorial](https://youtu.be/timegpt-video-link)**  
+**[Tabular Video Tutorial](https://youtu.be/tabular-video-link)**  
+**[RDL and RelBench Video Tutorial](https://youtu.be/rdl-relbench-video-link)**  
 
 ---
 
 ## Google Colab Links
 
 ### 1. **TimeGPT**
-This folder contains Colab notebooks demonstrating the various use cases of TimeGPT, a powerful time-series forecasting tool. The notebooks include:
 
 - **[Multivariate Forecasting](https://drive.google.com/drive/folders/18LbawXw4qTubs8Mfjxh7Q1Opd0qFHLOP?usp=sharing)**  
   Demonstrates forecasting for multiple time series with long horizons.  
@@ -37,7 +32,6 @@ This folder contains Colab notebooks demonstrating the various use cases of Time
 ---
 
 ### 2. **Tabular**
-This folder demonstrates Tabular data capabilities, focusing on synthetic data generation and zero-shot inference:
 
 - **[Synthetic Data Generation](https://drive.google.com/drive/folders/187HOj2oFEZMxMXNzvnoieoFJKcNcsF_x?usp=sharing)**  
   Generates synthetic datasets to simulate real-world data.
@@ -48,7 +42,6 @@ This folder demonstrates Tabular data capabilities, focusing on synthetic data g
 ---
 
 ### 3. **RDL and RelBench**
-This folder demonstrates the use of Relational Deep Learning (RDL) with RelBench for tabular prediction tasks:
 
 - **[GNN-Based Model for Tabular Prediction](https://drive.google.com/drive/folders/1iJ5bDU_8ihDQiwaRzZOiwBtWIezPZdZT?usp=sharing)**  
   Trains a Graph Neural Network (GNN) model on tabular datasets and evaluates its performance.
