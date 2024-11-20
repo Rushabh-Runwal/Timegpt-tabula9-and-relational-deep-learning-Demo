@@ -33,17 +33,17 @@
 
 ### 2. **Tabular**
 
-- **[Synthetic Data Generation](https://drive.google.com/drive/folders/187HOj2oFEZMxMXNzvnoieoFJKcNcsF_x?usp=sharing)**  
+- **[Synthetic Data Generation](https://colab.research.google.com/drive/1vz4LHURF1yHHgb_b0ULo-dZN5yR5N-Rv?usp=sharing)**  
   Generates synthetic datasets to simulate real-world data.
 
-- **[Zero-Shot Inference](https://drive.google.com/drive/folders/187HOj2oFEZMxMXNzvnoieoFJKcNcsF_x?usp=sharing)**  
+- **[Zero-Shot Inference](https://colab.research.google.com/drive/1-7G1aNawsM65W-npfKNCVr4drlHuANil?usp=sharing)**  
   Performs zero-shot inference using Tabula models.
 
 ---
 
 ### 3. **RDL and RelBench**
 
-- **[GNN-Based Model for Tabular Prediction](https://drive.google.com/drive/folders/1iJ5bDU_8ihDQiwaRzZOiwBtWIezPZdZT?usp=sharing)**  
+- **[GNN-Based Model for Tabular Prediction](https://colab.research.google.com/drive/1ZG9CyL6yJL45ocgJD_vfVMmf4zgWpJnc?usp=sharing)**  
   Trains a Graph Neural Network (GNN) model on tabular datasets and evaluates its performance.
 
 ---
