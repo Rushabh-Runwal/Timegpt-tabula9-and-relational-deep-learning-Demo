@@ -4,9 +4,9 @@
 
 ## YouTube Video Links
 
-**[TimeGPT Video Tutorial](https://youtu.be/timegpt-video-link)**  
-**[Tabular Video Tutorial](https://youtu.be/tabular-video-link)**  
-**[RDL and RelBench Video Tutorial](https://youtu.be/rdl-relbench-video-link)**  
+**[TimeGPT Video Tutorial](https://youtu.be/VxpfFQJCESE?si=jDpwzxgJyh3dhzuO)**  
+**[Tabular Video Tutorial](https://youtu.be/VxpfFQJCESE?si=jDpwzxgJyh3dhzuO)**  
+**[RDL and RelBench Video Tutorial](https://youtu.be/VxpfFQJCESE?si=jDpwzxgJyh3dhzuO)**  
 
 ---
 
